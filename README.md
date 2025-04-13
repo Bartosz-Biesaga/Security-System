@@ -1,9 +1,10 @@
 # Security System
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,python,django,pytorch,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,docker,python,django,tailwind" />
   </a>
 </p>
+Project for the fifth semester Python in the Enterprise course at AGH.
 
 ___
 
